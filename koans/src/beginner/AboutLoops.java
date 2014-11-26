@@ -116,7 +116,7 @@ public class AboutLoops {
 		}
 		// What does break with a label mean? 
 		// What gets executed? Where does the program flow continue?
-		assertEquals(count, 2);
+		assertEquals(count, 3);
 	}
 
 }
